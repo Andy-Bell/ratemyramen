@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Tier List
-permalink: /tiers
+permalink: /tiers.html
 ---
 ### S
 
